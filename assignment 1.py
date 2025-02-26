@@ -1,28 +1,45 @@
 #Name Ryan Kerr
-#Date modified:Febuary 25,2025
+#Date modified:Febuary 26,2025
+int=1
+print("an example of a variable is":,int)
+#an integer is a whole number positive or negative up to 2 million
 
-# integer is any whole number positive or negative up to 2 million
-x = 0
-#  Float is a number with a decimal point
-y = 0.0
-# Boolean is true or false
-z = true
-# char is single character
-# string is combination of charicters
-# double is more acurate number with decemal points
-print(x)
-print(y)
-print(z)
+float=1.0
+print("an example of a float is ":,float )
+# a float is a number with a decemal
 
- print(2*3)
- # this * multiplies
- print(5/2)
- #this / divides
- print(2+3)
- #this + does addition
-  print(7%4)
-  #this gives remainders
-  (2**3)
-  #this does exponents
-(math.sqrt(9))
-  # this does square roots
+boolean=True
+print("an example of a boolean is:",boolean)
+# booleans are true or false
+
+char="x"
+print("an example of a char is":,char)
+ # a char is a single character
+string="red"
+print("an example of a string is":,string)
+ # a string is a combination of characters
+ 
+ # Doubles are more acurate numbers with decemal points 
+
+
+multiply= 2*3
+print("an example of 2*3 is":,multiply)
+# doing this does multiplication for you
+
+divide= 5/2
+print("an example of 5/5":,divide)
+# putting / between numbers divides them
+
+ addition=2+2
+ print("an example of 2+2 is":,addition)
+#inputing print(2+2) does addition
+
+subtraction=2-3
+print("an example of 2-3 is":,subtraction)
+# doing this will subract numbers
+
+exponent=2**3
+print("an example of 2x2x2 is":,exponent)
+# putting double asterisks down does exponents
+
+# you can also do square roots using (math.sqrt(9)) but you need to import a math libary
